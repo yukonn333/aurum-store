@@ -1,0 +1,92 @@
+{
+  "seq": {
+    "product": 10,
+    "order": 1001,
+    "user": 1
+  },
+  "users": [],
+  "products": [
+    {
+      "id": 1,
+      "name": "Orient Aço Prata",
+      "cat": "Relógios",
+      "price": 599.9,
+      "stock": 5,
+      "desc": "Relógio analógico Orient com caixa e pulseira de aço, mostrador branco com marcações e ponteiros luminosos e calendário. Resistente à água até 50 m (Water Resist 50 m).",
+      "image": "/uploads/orient-aco.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Lince Digital Preto",
+      "cat": "Relógios",
+      "price": 349.9,
+      "stock": 8,
+      "desc": "Relógio digital Lince com visor espelhado preto, caixa quadrada e pulseira de malha preta. Botões MODE e SET para ajustes.",
+      "image": "/uploads/lince-digital.jpg"
+    },
+    {
+      "id": 3,
+      "name": "X-Watch Smartwatch",
+      "cat": "Relógios",
+      "price": 399.9,
+      "stock": 6,
+      "desc": "Smartwatch X-Watch que faz e recebe ligações. Monitoramento cardíaco, de sono, estresse e oxigênio no sangue, mais de 100 tipos de treino, notificações de mensagens e ligações, controle remoto de câmera e música, tela touch de 1,8\" com mais de 100 faces e bateria de longa duração.",
+      "image": "/uploads/xwatch-smart.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Aliança Dourada Frisada (par)",
+      "cat": "Alianças",
+      "price": 1490,
+      "stock": 6,
+      "desc": "Par de alianças douradas largas, com acabamento polido e frisos laterais.",
+      "image": "/uploads/alianca-frisada.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Aliança Dourada Abaulada (par)",
+      "cat": "Alianças",
+      "price": 1190,
+      "stock": 8,
+      "desc": "Par de alianças douradas de perfil abaulado, com acabamento polido e confortável no dedo.",
+      "image": "/uploads/alianca-abaulada.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Aliança Dourada Reta (par)",
+      "cat": "Alianças",
+      "price": 1290,
+      "stock": 7,
+      "desc": "Par de alianças douradas retas, com acabamento liso e brilhante.",
+      "image": "/uploads/alianca-reta.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Corrente Prata Elos Alternados",
+      "cat": "Correntes",
+      "price": 590,
+      "stock": 6,
+      "desc": "Corrente prateada de elos alternados, curtos e alongados, com acabamento polido.",
+      "image": "/uploads/corrente-prata-elos.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Corrente Prata Corações Coloridos",
+      "cat": "Correntes",
+      "price": 390,
+      "stock": 10,
+      "desc": "Corrente prateada com pedras em formato de coração, em tons coloridos. Também disponível com pedras transparentes.",
+      "image": "/uploads/corrente-coracoes.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Corrente Dourada Figaro 3x1",
+      "cat": "Correntes",
+      "price": 790,
+      "stock": 5,
+      "desc": "Corrente dourada no estilo Figaro 3x1 (três elos curtos seguidos de um alongado), com acabamento brilhante.",
+      "image": "/uploads/corrente-figaro.jpg"
+    }
+  ],
+  "orders": []
+}

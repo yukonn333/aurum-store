@@ -1,0 +1,9 @@
+ATUALIZAÇÃO AURUM - fotos reais, catálogo novo e correções
+
+1. Pare o sistema (Ctrl + C no terminal onde roda o npm run dev).
+2. Coloque esta pasta "aurum-update" DENTRO da pasta do projeto (ao lado do package.json).
+3. No terminal, dentro da pasta do projeto, rode:
+       node aurum-update/aplicar-atualizacao.mjs
+4. Rode "npm run dev" e abra http://localhost:5173
+
+O script faz backup (.bak) dos arquivos que altera e pode ser rodado mais de uma vez.
